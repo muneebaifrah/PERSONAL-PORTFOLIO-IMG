@@ -510,5 +510,37 @@ nav .fas{
 .contact-left, .contact-right{
     flex-basis: 100%;
 }   
+#header {
+    height: auto; /* instead of full height to remove big gap */
+    padding-top: 40px; /* reduce top padding */
+}
+
+.header-text {
+    margin-top: 0; /* remove extra space */
+}
+.header-text h1 {
+    font-size: 60px; /* make it bigger */
+    line-height: 1.1; /* tighten spacing */
+    color: #fff; /* ensure readable on image */
+    position: relative;
+    z-index: 2;
+}
+
+.header-text p {
+    font-size: 22px; /* slightly bigger intro text */
+    color: #f0f0f0;
+}
+
+/* Optional: Add subtle shadow so it’s readable on bright backgrounds */
+.header-text h1, 
+.header-text p {
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.4);
+}
+.header-text {
+    margin-top: 20px; /* reduces gap from top */
+    position: relative;
+    top: -20px; /* moves it slightly upwards into the image */
+}
+
 
 }
