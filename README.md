@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-Welcome to my personal portfolio! This project showcases my skills, projects, and experiences in web development. This project is created and maintained by Muneeba Ifrah.
+Welcome to my personal portfolio! This project showcases my skills, projects, and experiences in web development. This project is created and maintained by Muneeba Ifrah. (https://muneebaifrah.github.io/PERSONAL-PORTFOLIO-IMG/)
 
 ## 🧰 Technologies Used
 
